@@ -1,0 +1,11 @@
+C:\Users\luyfe\source\repos\AplicacaoComercial\AplicacaoComercial\bin\Debug\AplicacaoComercial.exe.config
+C:\Users\luyfe\source\repos\AplicacaoComercial\AplicacaoComercial\bin\Debug\AplicacaoComercial.exe
+C:\Users\luyfe\source\repos\AplicacaoComercial\AplicacaoComercial\bin\Debug\AplicacaoComercial.pdb
+C:\Users\luyfe\source\repos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.csprojAssemblyReference.cache
+C:\Users\luyfe\source\repos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.frnCadCarro.resources
+C:\Users\luyfe\source\repos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.Properties.Resources.resources
+C:\Users\luyfe\source\repos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.csproj.GenerateResource.cache
+C:\Users\luyfe\source\repos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.csproj.CoreCompileInputs.cache
+C:\Users\luyfe\source\repos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.exe
+C:\Users\luyfe\source\repos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.pdb
+C:\Users\luyfe\source\repos\AplicacaoComercial\AplicacaoComercial\obj\Debug\AplicacaoComercial.frmPrincipal.resources
